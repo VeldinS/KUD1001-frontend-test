@@ -1,0 +1,26 @@
+.forma{
+    padding: 1rem 4rem 1rem 4rem;
+    color: white;
+}
+
+.forma1{
+    padding: 0 2rem 0 2rem;
+    color: white;
+}
+
+.forma2{
+    height: 150px;
+}
+
+.forma3{
+    padding: 4rem;
+}
+
+.form-btn{
+    padding: 1rem 2rem 1rem 2rem;
+}
+
+.previewImg{
+    max-width: 100px;
+    max-height: 100px;
+}

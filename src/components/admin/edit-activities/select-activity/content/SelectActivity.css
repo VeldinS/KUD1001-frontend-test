@@ -1,0 +1,42 @@
+.activities-row1{
+    padding-top: 1rem;
+    color: black;
+}
+
+.activity{
+    padding: 2rem 5rem 3rem 5rem;
+}
+
+.card1, .card2{
+    background-color: antiquewhite;
+}
+
+.card1{
+    transition:transform 0.5s;
+    transform: scale(0.9);
+}
+
+.card1:hover{
+    transform: scale(1);
+}
+
+.btn-edit{
+    margin-bottom: 1rem;
+}
+
+
+.btn-delete:hover{
+    background-color: red;
+    color: white;
+}
+
+.btn-open{
+    margin-bottom: 1rem;
+}
+
+.btn-open:hover{
+    background-color: #050d25;
+    color: white;
+}
+
+

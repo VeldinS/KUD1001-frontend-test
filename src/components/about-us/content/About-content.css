@@ -1,0 +1,72 @@
+.about-row1{
+    height: 85vh;
+    color: white;
+    font-family: "Sitka Banner";
+    padding: 4rem;
+    padding-top: 6rem;
+}
+
+.about-box1{
+    padding-right: 4rem;
+}
+
+.about-header{
+    padding-top: 5rem;
+    padding-bottom: 3rem;
+    font-weight: 550;
+}
+
+.about-box2{
+    padding-top: 5rem;
+}
+
+.about-row2{
+    color: white;
+    font-family: "Sitka Banner";
+    padding: 5rem 3rem 6rem 3rem;
+    font-size: 120%;
+}
+
+.about-box3{
+    padding-right: 4rem;
+    padding-top: 2rem;
+}
+
+.about-box4{
+    padding-top: 5rem;
+    padding-left: 2rem;
+    padding-right: 2rem;
+}
+
+.about-box5{
+    padding: 0 5rem 0rem 5rem;
+}
+
+.fig-image{
+    width: 100px;
+    height: 100px;
+}
+.fig-image1{
+    width: 50px;
+    height: 50px;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+}
+
+.about-row3{
+    font-family: "Sitka Banner";
+    font-size: 120%;
+    color: white;
+    padding-bottom: 4rem;
+}
+
+.home-btn{
+    width: max-content;
+    margin-bottom: 1rem;
+    left: 45%;
+    opacity: 0.5;
+}
+
+.home-btn:hover{
+    opacity: 1;
+}
